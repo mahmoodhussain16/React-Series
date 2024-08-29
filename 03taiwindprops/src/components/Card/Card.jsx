@@ -1,6 +1,7 @@
 
 
 function Card() {
+  
     return (
     <div className="max-w-sm rounded overflow-hidden shadow-lg">
     <img className="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains"/>
